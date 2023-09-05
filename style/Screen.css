@@ -1,0 +1,573 @@
+@media screen and (max-width: 1380px) {
+
+
+    /* Start from Header */
+    nav {
+        justify-content: flex-start;
+    }
+
+    nav div {
+        width: 50%;
+    }
+
+    .pa_1,
+    .pa_2 {
+        display: none;
+    }
+
+    .menuRES {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        text-align: end;
+    }
+
+    .menuRES button {
+        border: none;
+        margin: 0 10px 0 0;
+        background-color: transparent;
+        cursor: pointer;
+    }
+
+    .logo {
+        text-align: start;
+        margin-left: 15px;
+    }
+
+    .endMenu {
+        display: none;
+    }
+
+    .endMenuResponsive {
+        display: block !important;
+    }
+
+    .title {
+        font-size: 65px;
+    }
+
+    /* end from Header */
+
+
+
+
+
+
+
+
+
+
+
+
+    /* Start from Container */
+    .text-container strong {
+        font-size: 60px;
+    }
+
+    /* end from Container */
+
+
+
+    /* Start from Numbers */
+
+
+    /* end from Numbers */
+
+
+
+
+    .items {
+        height: 80%;
+        /* overflow: hidden; */
+    }
+
+
+
+
+
+    /* Start from Container_Elements */
+
+    .txt_head {
+        font-size: 47px;
+
+    }
+
+    /*  dis===>NONE
+
+.element_1 .element_img img,
+    .element_2 .element_img img {
+
+        height: 70%;
+    } */
+
+
+
+    .inside_element_img {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .element_1 .element_img .inside_element_img img {
+        height: 66%;
+        max-width: 100%;
+    }
+
+    .element_2 .element_img .inside_element_img img {
+        height: 66%;
+        max-width: 100%;
+    }
+
+    /* end from Container_Elements */
+
+
+    /* Start from Team */
+
+    .title_team {
+        font-size: 40px;
+    }
+
+    .photo_team DIV {
+        height: 280px;
+    }
+
+
+    .Name_member {
+        font-size: 25px;
+
+    }
+
+
+    .major_member {
+        font-size: 15px;
+
+    }
+
+
+    /* end from Team */
+
+    /* Start from Footer */
+
+    .Container_Last_para {
+        font-size: 40px;
+    }
+
+    .btn_5 {
+        font-size: 20px;
+        padding: 30px 100px;
+    }
+
+
+    .Container_Last_text {
+        font-size: 17px;
+
+    }
+
+    .Container_Last_para {
+        font-size: 31px;
+    }
+
+    /* end from Footer */
+
+}
+
+/* --------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+
+@media screen and (max-width: 1180px) {
+
+
+    .txt_head {
+        font-size: 37px;
+        font-weight: bold;
+    }
+
+    .txt_explain {
+        font-size: 15px;
+    }
+
+    .txt_button {
+        margin-top: 20px;
+        height: 20px !important;
+    }
+
+    .txt_button a {
+        font-size: 20px;
+        height: 50px;
+        background-color: #002549;
+        color: #fff;
+        padding: 10px 55px;
+        border-radius: 55px;
+    }
+
+
+
+
+}
+
+/* --------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+
+@media screen and (max-width: 992px) {
+    .containerXX {
+        height: 100vh;
+    }
+
+   
+    .SNUmber {
+        font-size: 6rem;
+    }
+
+    .capNumber {
+        font-size: 2rem;
+        /* text-align: center !important; */
+    }
+
+    .Contian_Numbers {
+        height: 50rem !important;
+    }
+
+
+
+    .title_team {
+        font-size: 34px;
+    }
+
+    .ex_team {
+        font-size: 23px;
+    }
+
+    .photo_team {
+        display: flex;
+        /* height: 78%; */
+        justify-content: center;
+    }
+    .photo_per {
+        background: #ffffff;
+        margin-left: 5px;
+        height: 305px;
+    }
+
+    
+
+
+}
+
+@media screen and (max-width: 840px) {
+    .CONN {
+        margin: 0rem;
+    }
+
+    .containerXX {
+        height: 80rem;
+    }
+
+
+
+}
+
+@media screen and (max-width: 800px) {
+    .text-container strong {
+        font-size: 50px;
+    }
+
+    .containerXX {
+        height: 70rem;
+    }
+
+}
+
+@media screen and (max-width: 770px) {
+    .containerXX {
+        height: 70rem;
+    }
+
+}
+
+
+@media screen and (max-width: 768px) {
+    .containerXX {
+        height: 80rem;
+    }
+
+    .photo_team DIV {
+        height: 400px;
+        width: 20%;
+    }
+
+
+    .DragForRES{
+        display: block;
+        border: none;
+
+    }
+    .ForDeletein-768{
+        display: none;
+    }
+    .Delete_for_all{
+        display: block;
+    }
+  
+   
+}
+
+@media screen and (max-width: 767px) {
+    .containerXX {
+        height: 110rem;
+    }
+
+    .Team {
+        height: 621px;
+    }
+
+}
+
+@media screen and (max-width: 566px) {
+    .title {
+        font-size: 25px !important;
+    }
+
+    .linkss {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #btn_1 {
+        font-size: 25px !important;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 20px;
+        margin: 2px 0;
+
+
+    }
+
+    #btn_2 {
+        font-size: 25px !important;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 20px;
+        margin-left: 0;
+        margin: 20px 0;
+
+
+    }
+
+    .text-container strong {
+        font-size: 40px;
+    }
+
+    .containerXX {
+        height: 135rem;
+        overflow: hidden;
+    }
+
+
+    .Last {
+        width: 100%;
+    }
+
+
+    .btn_5 {
+        font-size: 20px;
+        padding: 19px 63px;
+    }
+
+    .photo_team DIV {
+
+        height: 314px;
+        width: 20%;
+    }
+
+
+}
+
+
+/* --------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+
+@media screen and (max-width: 450px) {
+    .txt_button a {
+        font-size: 12px !important;
+        height: 50px;
+        background-color: #002549;
+        color: #fff;
+        display: flex;
+        padding: 10px 30%;
+        /* padding: 20px; */
+
+        border-radius: 55px;
+    }
+
+}
+
+
+
+
+
+/* --------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+
+@media screen and (max-width: 880px) {
+
+
+    /* Start from Header */
+    nav {
+        justify-content: flex-start;
+    }
+
+    nav div {
+        width: 50%;
+    }
+
+    .pa_1,
+    .pa_2 {
+        display: none;
+    }
+
+    .menuRES {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        text-align: end;
+    }
+
+    .menuRES button {
+        border: none;
+        margin: 0 10px 0 0;
+        background-color: transparent;
+        cursor: pointer;
+    }
+
+    .logo {
+        text-align: start;
+        margin-left: 15px;
+    }
+
+    .endMenu {
+        display: none;
+    }
+
+    .endMenuResponsive {
+        display: block !important;
+    }
+
+    .title {
+        font-size: 45px;
+    }
+
+    #btn_1,
+    #btn_2 {
+        font-size: 15px;
+    }
+
+    /* end from Header */
+
+
+
+    /* Start from Container */
+
+    .Title_item span {
+        font-size: 20px;
+    }
+
+
+    /* end from Container */
+
+
+
+    /* Start from Numbers */
+    .Numbers div strong {
+        font-size: 3rem;
+    }
+
+    .capNumber {
+        font-size: 15px;
+    }
+
+    /* end from Numbers */
+
+
+
+
+    .items {
+        height: 80%;
+        /* overflow: hidden; */
+    }
+
+
+
+
+    /* Start from Container_Elements */
+
+    .txt_head {
+        font-size: 30px;
+        font-weight: bold;
+        margin-left: 0;
+    }
+
+    .txt_explain {
+        font-size: 20px;
+    }
+
+    .txt_button a {
+        font-size: 18px;
+        height: 50px;
+        background-color: #002549;
+        color: #fff;
+        display: flex;
+        padding: 10px 30%;
+        /* padding: 20px; */
+        margin: 0 auto;
+        border-radius: 55px;
+    }
+
+    /* end from Container_Elements */
+
+
+    /* Start from Team */
+
+    .title_team {
+        font-size: 40px;
+    }
+
+    .photo_team DIV {
+        height: 280px;
+    }
+
+
+    .Name_member {
+        font-size: 25px;
+
+    }
+
+
+    .major_member {
+        font-size: 15px;
+
+    }
+
+
+    /* end from Team */
+
+    /* Start from Footer */
+
+    .Container_Last_para {
+        font-size: 40px;
+    }
+
+    .btn_5 {
+        font-size: 20px;
+        padding: 30px 100px;
+    }
+
+
+    /* end from Footer */
+
+}
